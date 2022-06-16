@@ -67,7 +67,7 @@ class LoginPage extends React.Component {
                 </form>
             </div>
         );
-    }
+    } 
 }
 
 function mapState(state) {
